@@ -1,0 +1,32 @@
+{
+  "siteTheme": {
+    "ui": "modern",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260318-053035-qy98",
+      "title": "Repoez",
+      "commanders": [
+        "Repoez"
+      ],
+      "dateStart": "2026-03-18T11:30:35.000Z",
+      "dateEnd": "2026-03-18T12:02:36.000Z",
+      "dateLabel": "3/18/2026, 5:30:35 AM - 3/18/2026, 6:02:36 AM",
+      "url": "https://notodaysirilovegw2-boop.github.io/Log/?report=20260318-053035-qy98",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 1,
+        "avgEnemySize": 4
+      }
+    }
+  ]
+}
